@@ -1,0 +1,4 @@
+trainPath: "../data/train_1213_neg.csv"
+testPath: "../data/test_dataset_1213_neg.csv"
+outputPath: "total_1213_neg.txt"
+outputcsv: "./answer/total_1213_neg.csv"
